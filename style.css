@@ -1,0 +1,13 @@
+#cabezara{
+    background-color: burlywood;
+    opacity: 0.5;
+}
+#menu li{
+    border-bottom: cadetblue 2px solid;
+    list-style: none;
+    display: inline;
+}
+body{
+    background-color: black;
+
+}
