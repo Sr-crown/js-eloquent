@@ -17,10 +17,8 @@ body{
     display: inline;
 }
 #principal{
-    float: left;
     display: inline-block;
 }
 #aside{
-    float: right;
     display: inline-block;
 }
